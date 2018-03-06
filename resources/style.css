@@ -16,3 +16,22 @@ h1 {
 nav {
   font-size: 18px;
 }
+
+h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px
+}
+
+.break {
+  color: white;
+  background-image: url(/Users/esthefanymelo/Desktop/webdesignprojects/broadway/resources/pictures/the-flatiron-building.png);
+}
