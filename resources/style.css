@@ -1,6 +1,9 @@
 * {
   font-family: Helvetica;
-  text-align: center;
+}
+
+div {
+    text-align: center;
 }
 
 .heading {
@@ -28,10 +31,48 @@ h2 {
 }
 
 p {
-  font-size: 14px
+  font-size: 14px;
 }
 
 .break {
   color: white;
   background-image: url(/Users/esthefanymelo/Desktop/webdesignprojects/broadway/resources/pictures/the-flatiron-building.png);
 }
+
+#bottom {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+
+#bottom p {
+  font-size: 11px;
+}
+
+#bottom nav {
+  font-size: 18px;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+  }
